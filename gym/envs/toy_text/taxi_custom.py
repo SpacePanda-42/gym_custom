@@ -21,7 +21,7 @@ MAP = [
 WINDOW_SIZE = (550, 350)
 
 
-class TaxiEnv(Env):
+class CustomTaxiEnv(Env):
     """
 
     The Taxi Problem
